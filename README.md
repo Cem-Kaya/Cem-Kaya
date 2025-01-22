@@ -56,6 +56,3 @@ Welcome to my GitHub! I'm a graduate student in Artificial Intelligence with a b
 - **LinkedIn:** [Cem Kaya](https://linkedin.com/in/cem-kaya-om8)  
 - **Google Scholar:** [My Publications](https://scholar.google.com)  
 
----
-
-### "Exploring AI, LLMs, and robotics to build practical, impactful solutions."  
